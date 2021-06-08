@@ -14,7 +14,7 @@
 ## Repositorio Ayudantía
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabianCastellano/Ayu_MAT281/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabianCastellano/Tareas_Multivariada.git/HEAD)
 
 * __Fabián Castellano Núñez__ : [LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-castellano-n%C3%BA%C3%B1ez-3968a9149)
 
